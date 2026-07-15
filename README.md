@@ -32,9 +32,9 @@ A powerful Chrome extension for finding Cathay Pacific award flights with ease. 
 
 ### 截图展示 / Screenshots
 
-![Screenshot 1](./截屏2026-07-15%20下午10.19.53.png)
-![Screenshot 2](./截屏2026-07-15%20下午10.21.21.png)
-![Screenshot 3](./截屏2026-07-15%20下午10.26.24.png)
+![Screenshot 1](./%E6%88%AA%E5%B1%8F2026-07-15%20%E4%B8%8B%E5%8D%8810.19.53.png)
+![Screenshot 2](./%E6%88%AA%E5%B1%8F2026-07-15%20%E4%B8%8B%E5%8D%8810.21.21.png)
+![Screenshot 3](./%E6%88%AA%E5%B1%8F2026-07-15%20%E4%B8%8B%E5%8D%8810.26.24.png)
 
 ---
 
